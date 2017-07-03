@@ -1,6 +1,6 @@
 {
   "name": "flowchat-store-gcd",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Google Cloud Datastore session store for Flowchat",
   "main": "lib/index.js",
   "scripts": {
